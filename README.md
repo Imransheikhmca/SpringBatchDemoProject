@@ -1,1 +1,1 @@
-![](D:\spring\spring batch\flow.PNG)
+<img src="D:\spring\spring batch\flow.PNG"/>
