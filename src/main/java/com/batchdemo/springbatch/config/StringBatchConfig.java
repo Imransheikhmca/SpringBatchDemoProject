@@ -108,4 +108,9 @@ public class StringBatchConfig {
                 .writer(writer())
                 .build();
     }
+
+    /**
+     *
+     */
+
 }
